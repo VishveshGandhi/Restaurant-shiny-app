@@ -13,7 +13,7 @@ The app consists of 3 sections:
 
 
  #### Map Visualization
- Interactive Visualization capabilities are leveraged in this section, with 2 kinds of click events configured. 
+ Interactive Visualization with 2 kinds of click events configured. 
  
 #### Restaurant Click Event
 
